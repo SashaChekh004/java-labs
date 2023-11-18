@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+//2 VARIANT
 public class lab1 {
     public static void main(String[] args) {
         int n = 0;
