@@ -58,6 +58,7 @@ class Championship {
     }
 }
 
+//8 VARIANT
 public class lab2 {
     public static void main(String[] args) {
         Championship championship = new Championship();
